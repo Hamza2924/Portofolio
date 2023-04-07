@@ -1,0 +1,50 @@
+body{   
+    background-image: url('portfolio.jpg');
+    background-position:right;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-bottom: 40px;
+   }
+
+
+table, th, td {
+border:1px solid black;
+width: 30%;
+text-align: center;
+}
+table{
+width: 135px;
+}
+.main{
+display:inline-block;
+margin-left: 15%;
+}
+img{
+border-radius: 1000px;
+}
+th{
+color: red;
+}
+h1{
+color: green;
+}
+.radio{
+border: 1px solid black;
+margin: 10px;
+padding-left: 10px;
+padding-bottom: 15px;
+background-color: rgb(196, 231, 219);
+}
+/* .form1{
+border-radius: 1px solid black;
+} */
+.contact{
+/* width: 60%;
+height: 40%; */
+background-color: burlywood;
+border: 1px solid black;
+margin: 10px;
+padding-left: 10px;
+padding-bottom: 15px;
+text-align: center;
+}
